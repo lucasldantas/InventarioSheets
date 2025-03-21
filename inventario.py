@@ -8,8 +8,8 @@ from datetime import datetime
 
 # Configurar acesso ao Google Sheets
 SCOPES = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-CREDENTIALS_FILE = "inventario-454400-80a650d557d3.json"  # Substitua pelo caminho do seu arquivo JSON
-SPREADSHEET_ID = "1e_WWD35aJMDKX_hXZlz0aViwnIPF3z3lQSfyxH9YUnI"  # Substitua pelo ID da sua planilha
+CREDENTIALS_FILE = "SUA-CREDENCIAL-GOOGLE.json"  # Substitua pelo caminho do seu arquivo JSON
+SPREADSHEET_ID = "SEU-ID-DA-PLANILHA"  # Substitua pelo ID da sua planilha
 
 
 # Autenticação no Google Sheets
